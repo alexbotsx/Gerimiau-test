@@ -1,5 +1,5 @@
 {
-    "name": "BOSSBOT",
+    "name": "GeriMiau",
     "version": "2.0.7",
     "description": "Simple WhatsApp Bot Multi Device",
     "main": "index.js",
@@ -18,9 +18,9 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "https://github.com/Adrianmaze/SIABOT",
+    "homepage": "https://github.com/Adrianmaze/GeriMiau",
     "author": {
-        "name": "BOSSBOT"
+        "name": "GeriMiau"
     },
     "collaborators": {
         "col1": "@BOSSBOT",
