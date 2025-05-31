@@ -5,10 +5,7 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
   }
   let pesan = args.join` `
   let oi = `𝙂𝙚𝙧𝙞𝙈𝙞𝙖𝙪 𝙩𝙚 𝙞𝙣𝙫𝙤𝙘𝙖 𝙥𝙚𝙧𝙧𝙚🫦${pesan}`
-  let teks = `@ceogeripium.dzn
-           🚨𝙈𝙚𝙣𝙘𝙞𝙤𝙣𝙚𝙨 
 
-➜ ETIQUETA:*\n\n ${oi}\n\n`
   for (let mem of participants) {
   teks += `🪄✨ @${mem.id.split('@')[0]}\n`}
   teks += `GeriMiau`
