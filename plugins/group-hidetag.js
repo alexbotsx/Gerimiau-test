@@ -34,7 +34,7 @@ const handler = async (m, { conn, text, participants, isOwner, isAdmin }) => {
     const quoted = m.quoted ? m.quoted : m;
     const mime = (quoted.msg || quoted).mimetype || '';
     const isMedia = /image|video|sticker|audio/.test(mime);
-    const watermark = '\n\n> @alexnsnk7';
+    const watermark = '\n\n> 👑@𝔠𝔢𝔬𝔤𝔢𝔯𝔦𝔭𝔦𝔲𝔪.𝔡𝔷𝔫 ';
 
     if (isMedia) {
       const mediax = await quoted.download?.();
