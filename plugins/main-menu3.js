@@ -1,5 +1,5 @@
 let handler = async (m, { isPrems, conn }) => {
-	let img = 'https://ibb.co/Xx4J5Dvq/avatar-contact.jpg'
+	let img = 'https://cdn.russellxz.click/a8f9e711.jpg'
 	let texto = `
 ╔═════════════════╗
 ┇•°「 *𝘓𝘰𝘨𝘰 - 𝘮𝘢𝘬𝘦𝘳 🎨* 」°•
@@ -37,7 +37,7 @@ let handler = async (m, { isPrems, conn }) => {
 ┊⇾ .𝘭𝘰𝘨𝘰𝘷𝘪𝘥𝘦𝘰𝘨𝘢𝘮𝘪𝘯𝘨 (texto)
 ┊⇾ _.sadcat_ (texto)
 ┊⇾ _.tweet_ (comentario)
-╰ ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ _BOSSBOT_`
+╰ ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ _GERIMIAUBOT_`
 
 	const fkontak = {
 		"key": {

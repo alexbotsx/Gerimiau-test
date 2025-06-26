@@ -1,4 +1,4 @@
-//Codígo de BOSSBOT
+//Codígo de GERIMIAUBOT
 
 import fs from 'fs';
 import path from 'path';

@@ -23,15 +23,15 @@
         "name": "GeriMiau"
     },
     "collaborators": {
-        "col1": "@BOSSBOT",
+        "col1": "@GERIMIAUBOT",
         "col2": "@Anuar"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Adrianmaze/BOSSBOT.git"
+        "url": "git+https://github.com/Adrianmaze/GERIMIAUBOT.git"
     },
     "bugs": {
-        "url": "https://github.com/Adrianmaze/BOSSBOT/issues"
+        "url": "https://github.com/Adrianmaze/GERIMIAUBOT/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
